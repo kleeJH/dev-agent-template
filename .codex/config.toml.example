@@ -1,0 +1,9 @@
+# Example Codex config
+# Copy to ~/.codex/config.toml or adapt for your setup.
+
+project_doc_fallback_filenames = [".codex/AGENTS.md", ".codex/PLANS.md"]
+
+# Example MCP server:
+# [mcp_servers.docs]
+# command = "docs-server"
+# supports_parallel_tool_calls = true
