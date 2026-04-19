@@ -3,6 +3,9 @@
 
 project_doc_fallback_filenames = [".codex/AGENTS.md", ".codex/PLANS.md"]
 
+[features]
+codex_hooks = true
+
 # Example MCP server:
 # [mcp_servers.docs]
 # command = "docs-server"
